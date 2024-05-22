@@ -1,4 +1,4 @@
-# Excel_Project
+# Excel_Project(Vrinda Store Analysis)
 This project in Excel includes a dashboard for analyzing store data.
 
 The first sheet contains the data file after data cleaning (duplicates and null values removed) and data processing (values grouped into shorter intervals for easier analysis).
